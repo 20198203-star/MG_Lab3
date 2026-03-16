@@ -1,0 +1,50 @@
+* {
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+  background-color: #d6ded1;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 70px;
+  font-size: 50px;
+}
+
+h2 {
+  margin-bottom: 40px;
+}
+
+hr {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  height: 3px;
+  background-color: black;
+}
+
+div {
+  margin-bottom: 40px;
+  font-family: Arial;
+}
+
+input {
+  width: 400px;
+  height: 30px;
+  background-color: #f9faf8;
+  border-color: #526447;
+}
+
+textArea { 
+  width: 400px;
+  height: 70px;
+  background-color: #f9faf8;
+  border-color: #526447;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: #526447;
+  color: white;
+}
