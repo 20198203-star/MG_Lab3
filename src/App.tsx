@@ -129,7 +129,7 @@ return (
       <textarea
       value={requestReason}
       onChange={(e: ChangeEvent<HTMLTextAreaElement>) =>
-        setAuthor(e.target.value)
+        setRequestReason(e.target.value)
         }
         />
     </div>
